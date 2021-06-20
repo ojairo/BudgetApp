@@ -16,8 +16,7 @@ After realizing that one day we forgot to bring paper for notes, I realized that
 
 ## HOW TO EXECUTE
 With you have Expo CLI:
- - Open each of the folders in the terminal and run `npm install`.
- - Run `npm start` in both folders.
+ - Open each of the folders in the terminal and run `npm install` or `yarn install`.
 
 If you don't have Expo CLI: 
 
