@@ -18,14 +18,17 @@ After realizing that one day we forgot to bring paper for notes, I realized that
 With you have Expo CLI:
  - Open each of the folders in the terminal and run `npm install`.
  - Run `npm start` in both folders.
- - And open in your emulator.
 
 If you don't have Expo CLI: 
 
  - Follow the documentation for installation: [Installation - Expo Documentation](https://docs.expo.io/get-started/installation/)
  -  Open each of the folders in the terminal and run `npm install`.
- - Run `npm start` in both folders.
- - And open in your emulator.
 
+Before install:
+ - Go to file `/src/service/api.js` inside `mobile`, copy and paste machine IP between "HTTP" and port (":3333").
+ - Save the file.
+ - Execute `npm start` or  `yarn start` in backend and mobile.
+ - To access, write user : `ojairo` and pass: `ojairo`.
 
+If you liked, don't forget the like.
 Thanks 😉
