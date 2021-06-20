@@ -24,10 +24,11 @@ If you don't have Expo CLI:
  -  Open each of the folders in the terminal and run `npm install`.
 
 Before install:
- - Go to file `/src/service/api.js` inside `mobile`, copy and paste machine IP between "HTTP" and port (":3333").
+ - In`/mobile` go to `/src/services/api.js` file , copy and paste machine IP between "HTTP" and port (":3333").
  - Save the file.
  - Execute `npm start` or  `yarn start` in backend and mobile.
- - To access, write user : `ojairo` and pass: `ojairo`.
+ - On login screen, write user : `ojairo` and pass: `ojairo`.
+ - Enjoy the app.
 
 If you liked, don't forget the like.
 Thanks 😉
